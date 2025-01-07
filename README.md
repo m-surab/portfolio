@@ -1,4 +1,5 @@
 # Portfolio
+___
 
 ### :raising_hand: About me
 From a young age, I have been deeply fascinated by technology, gadgets, and computers. One of my favorite activities as a child was disassembling devices and reassembling them, reveling in the process of understanding how things worked. This curiosity and passion for technology naturally led me to pursue a career in IT.
@@ -17,6 +18,7 @@ ___
 ### :computer: My experience
 Visit my linked-in profile [**here**](https://www.linkedin.com/in/miroslav-surab/) to check my education and work experience.
 
+___
 ### :wrench: Tech stack
 * [Java](https://www.java.com/en/)
 * [Selenium](https://www.selenium.dev/)
@@ -38,6 +40,7 @@ Visit my linked-in profile [**here**](https://www.linkedin.com/in/miroslav-surab
 * [C#](https://dotnet.microsoft.com/en-us/languages/csharp) - in the past
 * [TestLeft](https://smartbear.com/product/testleft/overview/) - in the past
 
+___
 ### :bulb: Skills
 * Quality Assurance, Test Planning, Test cases
 * Manual Testing
