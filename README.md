@@ -1,7 +1,8 @@
 # Portfolio
 ___
 
-### :raising_hand: About me :raising_hand:
+### About me
+### :raising_hand:
 From a young age, I have been deeply fascinated by technology, gadgets, and computers. One of my favorite activities as a child was disassembling devices and reassembling them, reveling in the process of understanding how things worked. This curiosity and passion for technology naturally led me to pursue a career in IT.
 \
 \
