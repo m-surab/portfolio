@@ -14,6 +14,7 @@ One of my greatest strengths is my sense of responsibility. As the first-born ch
 Above all, I value purpose and clarity in everything I do. I am driven by the bigger picture and seek to understand the consequences of my actions. Give me a meaningful reason and a good vision, and I’ll give it my best effort.
 
 ### :computer: My experience
+<img width="594" alt="image" src="https://github.com/user-attachments/assets/68b8ad6f-addf-40e7-9abe-de961c6d9767" />
 [visit my Linkedin profile](https://www.linkedin.com/in/miroslav-surab/)
 
 ### :wrench: Tech stack
