@@ -21,8 +21,10 @@ Visit my linked-in profile [**here**](https://www.linkedin.com/in/miroslav-surab
 ___
 ### Tech stack :wrench: 
 * [Java](https://www.java.com/en/)
+* [JS](https://www.w3schools.com/js/)
 * [Selenium](https://www.selenium.dev/)
 * [Selenide](https://selenide.org/)
+* [Cypress](https://www.cypress.io/)
 * [Postman](https://www.postman.com/)
 * [Burp Suite](https://portswigger.net/burp)
 * [Git](https://git-scm.com/)
@@ -34,6 +36,7 @@ ___
 * [Zephyr](https://www.atlassian.com/pl/devops/testing-tutorials/jira-zephyr-scale-testing)
 * [Docker](https://www.docker.com/) - basic knowledge and usage
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [Aqua](https://www.jetbrains.com/help/aqua/getting-started-aqua.html)
 * [SonarQube](https://www.sonarsource.com/products/sonarcloud/)
 * [Maven](https://maven.apache.org/)
 * [Visual Studio](https://visualstudio.microsoft.com/), [VS Code](https://code.visualstudio.com/) - in the past
@@ -53,6 +56,4 @@ ___
 * Jenkins, Gitlab CI/CD
 * Agile, scrum
 * Test cases, Bug reporting
-* Testing web applications
-* Testing AI Apps
 * ...
