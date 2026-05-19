@@ -48,6 +48,7 @@ ___
 * Quality Assurance, Test Planning, Test cases
 * Manual Testing
 * Test Automation
+* AI Agents, Prompt Engineering, GitHub Copilot, ...
 * API testing
 * Smoke tests
 * Basic security and performance testing
