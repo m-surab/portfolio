@@ -23,37 +23,37 @@ ___
 * [Java](https://www.java.com/en/)
 * [JS](https://www.w3schools.com/js/)
 * [C#](https://dotnet.microsoft.com/en-us/languages/csharp) - in the past
-
+\
 * [Selenium](https://www.selenium.dev/)
 * [Selenide](https://selenide.org/)
 * [Playwright](https://playwright.dev/)
 * [Cypress](https://www.cypress.io/)
 * [Postman](https://www.postman.com/)
 * [TestLeft](https://smartbear.com/product/testleft/overview/) - in the past
-
+\
 * [VS Code](https://code.visualstudio.com/)
 * [Webstorm](https://www.jetbrains.com/webstorm/)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Aqua](https://www.jetbrains.com/help/aqua/getting-started-aqua.html)
 * [Visual Studio](https://visualstudio.microsoft.com/) - in the past
-
+\
 * [Git](https://git-scm.com/)
 * [Gitlab](https://about.gitlab.com/)
 * [Bitbucket](https://bitbucket.org/product/)
-
+\
 * [Gitlab CI/CD](https://docs.gitlab.com/ee/ci/)
 * [Jenkins](https://www.jenkins.io/)
-
+\
 * [Docker](https://www.docker.com/) - basic knowledge and usage
 * [Podman](https://podman.io/) - homelab usage
-
+\
 * [Jira](https://www.atlassian.com/pl/software/jira)
 * [Confluence](https://www.atlassian.com/software/confluence)
 * [Zephyr](https://www.atlassian.com/pl/devops/testing-tutorials/jira-zephyr-scale-testing)
-
+\
 * [NPM](https://www.npmjs.com/)
 * [Maven](https://maven.apache.org/)
-
+\
 * [SonarQube](https://www.sonarsource.com/products/sonarcloud/)
 * [Burp Suite](https://portswigger.net/burp)
 * ...
