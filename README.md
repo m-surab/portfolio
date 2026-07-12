@@ -23,37 +23,37 @@ Visit my linked-in profile [**here**](https://www.linkedin.com/in/miroslav-surab
 * [Java](https://www.java.com/en/)
 * [JS](https://www.w3schools.com/js/)
 * [C#](https://dotnet.microsoft.com/en-us/languages/csharp) - in the past
-\
+<br/><br/>
 * [Selenium](https://www.selenium.dev/)
 * [Selenide](https://selenide.org/)
 * [Playwright](https://playwright.dev/)
 * [Cypress](https://www.cypress.io/)
 * [Postman](https://www.postman.com/)
 * [TestLeft](https://smartbear.com/product/testleft/overview/) - in the past
-\
+<br/><br/>
 * [VS Code](https://code.visualstudio.com/)
 * [Webstorm](https://www.jetbrains.com/webstorm/)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Aqua](https://www.jetbrains.com/help/aqua/getting-started-aqua.html)
 * [Visual Studio](https://visualstudio.microsoft.com/) - in the past
-\
+<br/><br/>
 * [Git](https://git-scm.com/)
 * [Gitlab](https://about.gitlab.com/)
 * [Bitbucket](https://bitbucket.org/product/)
-\
+<br/><br/>
 * [Gitlab CI/CD](https://docs.gitlab.com/ee/ci/)
 * [Jenkins](https://www.jenkins.io/)
-\
+<br/><br/>
 * [Docker](https://www.docker.com/) - basic knowledge and usage
 * [Podman](https://podman.io/) - homelab usage
-\
+<br/><br/>
 * [Jira](https://www.atlassian.com/pl/software/jira)
 * [Confluence](https://www.atlassian.com/software/confluence)
 * [Zephyr](https://www.atlassian.com/pl/devops/testing-tutorials/jira-zephyr-scale-testing)
-\
+<br/><br/>
 * [NPM](https://www.npmjs.com/)
 * [Maven](https://maven.apache.org/)
-\
+<br/><br/>
 * [SonarQube](https://www.sonarsource.com/products/sonarcloud/)
 * [Burp Suite](https://portswigger.net/burp)
 * ...
