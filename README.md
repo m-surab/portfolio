@@ -1,5 +1,5 @@
 # Portfolio
-___
+
 
 ### About me :raising_hand:
 From a young age, I have been deeply fascinated by technology, gadgets, and computers. One of my favorite activities as a child was disassembling devices and reassembling them, reveling in the process of understanding how things worked. This curiosity and passion for technology naturally led me to pursue a career in IT.
@@ -13,12 +13,12 @@ One of my greatest strengths is my sense of responsibility. As the first-born ch
 \
 \
 Above all, I value purpose and clarity in everything I do. I am driven by the bigger picture and seek to understand the consequences of my actions. Give me a meaningful reason and a good vision, and I’ll give it my best effort.
-___
+
 
 ### My experience :computer: 
 Visit my linked-in profile [**here**](https://www.linkedin.com/in/miroslav-surab/) to check my education and work experience.
 
-___
+
 ### Tech stack :wrench: 
 * [Java](https://www.java.com/en/)
 * [JS](https://www.w3schools.com/js/)
@@ -58,7 +58,7 @@ ___
 * [Burp Suite](https://portswigger.net/burp)
 * ...
 
-___
+
 ### Skills :bulb: 
 * Quality Assurance, Test Planning, Test cases
 * Manual Testing
